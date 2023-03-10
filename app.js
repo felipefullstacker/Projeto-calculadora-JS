@@ -27,7 +27,7 @@ botoes.forEach(botao => {
             }
             return;
         }
-
+        
         
         if(tela.textContent === "0" || tela.textContent === "Erro" ) {
             tela.textContent = botaoapertado;
